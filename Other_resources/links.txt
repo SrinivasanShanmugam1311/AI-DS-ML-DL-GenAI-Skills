@@ -1,0 +1,61 @@
+DL: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+
+https://www.youtube.com/watch?v=MLARYBpFH40&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns&index=2 - Deep learning
+
+https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO - Statistics
+
+
+https://github.com/ashishtele/Quick-Notes-for-ML-DS
+
+https://www.linkedin.com/posts/raviteja-mandarapu_deep-learning-notes-1-activity-7027491584065634304-A_WH/?originalSubdomain=bg
+https://www.linkedin.com/posts/sourav-bal-a94085116_handwritten-notes-on-dl-basics-and-ann-activity-7046880080295309312--Uc2/
+
+Statistics: https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
+
+https://www.youtube.com/watch?v=MLARYBpFH40&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns&index=3 - DL 
+
+https://github.com/the-deep-learners/deep-learning-illustrated
+
+https://krishnaik.in/2022/02/14/what-is-l1-and-l2-regularization/ - Krish Naik
+
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20Deep%20Learning -
+
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20Statistics
+
+https://www.youtube.com/watch?v=JxgmHe2NyeY
+
+https://www.youtube.com/watch?v=d2kxUVwWWwU - Complete deep learning
+
+https://www.scribd.com/document/484932248/Complete-ML-Krish-Naik-docx
+
+https://www.linkedin.com/pulse/best-learning-platforms-machine-ai-data-science-navid-bin-ahmed/
+
+https://www.youtube.com/watch?v=AjV-khcM6BE&list=PLZbbT5o_s2xqaYcABd4VgeXie6SNmtB_2&index=12 - deeplizard
+
+
+https://www.youtube.com/watch?v=cQ56gsYKIuc - Mahesh Huddar -> very nice
+
+
+ 
+1.Complete Machine Learning Playlist:(Top 24 videos)hps://www.youtube.com/playlist?list... 2.Stascs in Machine Learning:(Understand some Concepts With Respect To Data)- CompletePlaylisthps://www.youtube.com/playlist?list... 3.Feature Engineering(Complete Playlist)hps://www.youtube.com/playlist?list... 4.Connue The Complete Machine Learning Playlist(24-all the videos)5.Natural Language Playlist:hps://www.youtube.com/playlist?list... 6.Live Stream Playlist:(Top 10 videos)hps://www.youtube.com/playlist?list... 7.Machine Learning Pipelineshps://www.youtube.com/playlist?list... 8.Complete Deep Learning Playlist: Tensorfow And Keras-hps://www.youtube.com/playlist?list... Pytorch:hps://www.youtube.com/playlist?list... 9.Live Projects Playlist:hps://www.youtube.com/playlist?list... 10.Deployment Playlist:(Azure,Google Cloud,EC2.Heroku)hps://www.youtube.com/playlist?list... 11.Docker Playlist:hps://www.youtube.com/playlist?list... 12.Tableau:hps://www.youtube.com/playlist?list... 13.PowerBIhps://www.youtube.com/playlist?list...
+
+
+https://www.scribd.com/document/484932248/Complete-ML-Krish-Naik-docx
+
+https://www.linkedin.com/pulse/best-learning-platforms-machine-ai-data-science-navid-bin-ahmed/
+
+https://www.youtube.com/watch?v=AjV-khcM6BE&list=PLZbbT5o_s2xqaYcABd4VgeXie6SNmtB_2&index=12 - deeplizard
+
+
+https://www.youtube.com/watch?v=cQ56gsYKIuc - Mahesh Huddar -> very nice
+
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main - Complete_DS_ML_DL
+
+
+https://www.youtube.com/watch?v=LZzq1zSL1bs - Complete Statistics
+
+https://www.youtube.com/watch?v=JxgmHe2NyeY - Complete machine learning
+
+https://www.youtube.com/watch?v=d2kxUVwWWwU - Complete Deep learning
+
+https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ - krish
