@@ -1,0 +1,81 @@
+1. How do we make decisions, when to use where to use logistic regression, KNN, SVM, decision trees etc.,?
+2. When & how do we go for imputing imbalanced dataset?
+3. When do we use box plot, voilin plot, scatter gather plot, on what factors we make the decisions of using which plot & when?
+4. what is sigmoid functions, how it is useful in logistic regression for classification?
+5. what is meant by hyper parameter tuning?
+6. Time complexity calculations?
+7. Normalization & standaridization -> when & where to use on which models or before using models?
+8. Outliers concepts -> when we need to fliter out, is it applicable for ML algorithms -> linear regressions, classifications - logistic, DT, SVM - is it applicable for each input sample or one row? or output feature?
+9. Is random forest impacted by outliers?
+10. KNN impacted by outliers?
+11. Please bring remaining data science notes, +sql training?
+12. some things w.r.t understanding the terminilogies -> w.r.t ie.., when do we go for differentiation, & other terminilogies of loss functions, cost funcitons, when calculating y-y`?
+13. hinge loss -> w.r.t classification?
+14. MSE, MAE, RMSE differences?
+15. Lasso & Ridge regression -> L1/L2 Regularization?
+16. how do we determine no. of decision trees to be used in Random forest?
+17. Can the decision tree used for regression also , apart from classification?
+18. what is the concept of pre-prunning & post prunning in decision trees?
+19. diff between missing values & imbalanced dataset?
+20. how to handle missing values & imbalanced dataset in KNN, lositic, linear, decision trees?
+21 hyper parameters used in random forest?
+22. euclidean distancem manhattan distance, &minkowski distance differences in knn?
+23. how do we make choice of using the values of K?
+24 what is meant by k-means?
+25, what are all the coffecients that we get after training different models?
+26. multicollinearity?
+27. what is ROC curve?
+28. diff b/w precision and recall?
+29. what is meant by GRID search CV & random search CV?
+30. diff b/w linear(prediciton of house price or avg) & logistic regression - binary classification or mutliclass classification?
+31. Cross-validation?
+
+
+
+DL.
+1. Why do we need hidden layers in DL NN?
+2. how do we select no. of hidden layers based on what factors?
+3. what are the various ways of assigning the weights or randomly assignning inititally forward propagation?
+4. Relu function explaination, sigmoid, softmax functions?
+5. why do we need to cal. derivative or differnetiation in case of updating weights?
+6. disadvantage of relu over leaky relu?
+7. which activation functions, when to use?
+8. why do we use signmodi funciton for binary classification & softmax for multi-class classification?
+10. Activation function used in DL -> regression?
+11. Outliers are w.r.t regression & classification case?
+12. outliers w.r.t loss funciton? - Mean Squared Error, Mean Absolute Error?
+13. Can this NN model's performance, can be measured using confusion matrix, precision recall, f1 score ?
+14. can outliers be applied or exists in both regression & classification?
+15. how sigmoid function helps in binary classification?
+16. Hyperpaaremeter tunning, why it is needed?
+17. how & what values we decide the weights during initial forward propagation?
+18. what is meant by tensorflow, keras, pytorch libraries?
+19, when do we need drop outs & why do we need drop outs layer? any example?
+20. Difference between validation accuracy & actual accuracy?
+21. where do we need & why do we need -> the loss function & cost funciton?
+22. where we are using this cost function/loss function in linear regression/logistic regression/ANN/CNN?
+23. Why do we need to find derivative in relu activation funciton?
+24. what is meant by max pooling?
+25. what is meant by transfer learning?
+26. what is softmax activation function? & why do we need it?
+27. what is the difference between pytorch & tensor flow  , keras libraries?
+28. CIFAR10 dataset?
+29. Auto encoders?
+31. valiation accuracy & training acciracy?
+32. whats is meany alexa net, vgg16 net etc.,?
+33. early stopping?
+34. adam optimizer?
+35. hyper parameter tuning across all algorithms?
+36. Imbalanced dataset?
+
+Why do we need more than 1 hidden layer?
+These networks have the ability to learn more complex representations of data compared to networks with only one hidden layer. Each hidden layer in a deep neural network can learn different features or abstractions from the input data, allowing the network to capture more intricate patterns and relationships.20 Jun 2017
+
+
+How to determine outliers?
+Cross validations?
+
+push the ML interview books to git hub
+
+note the Q's to be sent in notepad & from ML interview book.
+
